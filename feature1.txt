@@ -1,1 +1,3 @@
 ok nova alteração
+
+Nova versão do arquivo 0.0.1
