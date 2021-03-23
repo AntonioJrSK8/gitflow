@@ -1,0 +1,1 @@
+Informação de erro usado para gravação de arquivo de erros.
